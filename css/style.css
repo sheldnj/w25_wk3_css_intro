@@ -1,0 +1,17 @@
+h1{
+    font-size: 150%;
+    font-style: normal;
+    color: purple;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+    background-color: aqua;
+}
+h2{
+    font-size:  20px;
+    font-style: italic;
+    color: coral;
+    font-family: sans-serif;
+    
+}
+p{
+    font-family: Arial;
+}
